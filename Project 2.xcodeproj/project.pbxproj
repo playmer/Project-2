@@ -15,6 +15,12 @@
 		EE32B47315B7672C00F729C9 /* RandomPickerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EE32B47215B7672C00F729C9 /* RandomPickerAppDelegate.m */; };
 		EE32B47615B7672C00F729C9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE32B47415B7672C00F729C9 /* MainStoryboard.storyboard */; };
 		EE32B47915B7672C00F729C9 /* RandomPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE32B47815B7672C00F729C9 /* RandomPickerViewController.m */; };
+		EE86094515B8AB0100551228 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EE86094315B8AB0100551228 /* icon.png */; };
+		EE86094615B8AB0100551228 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = EE86094415B8AB0100551228 /* background.png */; };
+		EE86094915B8AB1400551228 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = EE86094815B8AB1400551228 /* Default.png */; };
+		EE86094B15B8AB1900551228 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EE86094A15B8AB1900551228 /* icon.png */; };
+		EE87DFC015B81CCF00DD35AE /* arrowUp.png in Resources */ = {isa = PBXBuildFile; fileRef = EE87DFBF15B81CCF00DD35AE /* arrowUp.png */; };
+		EE87DFC215B81CFD00DD35AE /* arrowDown.png in Resources */ = {isa = PBXBuildFile; fileRef = EE87DFC115B81CFD00DD35AE /* arrowDown.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +28,21 @@
 		EE32B46215B7672C00F729C9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		EE32B46415B7672C00F729C9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		EE32B46615B7672C00F729C9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		EE32B46A15B7672C00F729C9 /* Project 2-Info.plist */ = {isa = PBXFileReference; path = "Project 2-Info.plist"; sourceTree = "<group>"; };
+		EE32B46A15B7672C00F729C9 /* Project 2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Project 2-Info.plist"; sourceTree = "<group>"; };
 		EE32B46C15B7672C00F729C9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EE32B46E15B7672C00F729C9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		EE32B47015B7672C00F729C9 /* Project 2-Prefix.pch */ = {isa = PBXFileReference; path = "Project 2-Prefix.pch"; sourceTree = "<group>"; };
-		EE32B47115B7672C00F729C9 /* RandomPickerAppDelegate.h */ = {isa = PBXFileReference; path = RandomPickerAppDelegate.h; sourceTree = "<group>"; };
+		EE32B47015B7672C00F729C9 /* Project 2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Project 2-Prefix.pch"; sourceTree = "<group>"; };
+		EE32B47115B7672C00F729C9 /* RandomPickerAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RandomPickerAppDelegate.h; sourceTree = "<group>"; };
 		EE32B47215B7672C00F729C9 /* RandomPickerAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RandomPickerAppDelegate.m; sourceTree = "<group>"; };
 		EE32B47515B7672C00F729C9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		EE32B47715B7672C00F729C9 /* RandomPickerViewController.h */ = {isa = PBXFileReference; path = RandomPickerViewController.h; sourceTree = "<group>"; };
+		EE32B47715B7672C00F729C9 /* RandomPickerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RandomPickerViewController.h; sourceTree = "<group>"; };
 		EE32B47815B7672C00F729C9 /* RandomPickerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RandomPickerViewController.m; sourceTree = "<group>"; };
+		EE86094315B8AB0100551228 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		EE86094415B8AB0100551228 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		EE86094815B8AB1400551228 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		EE86094A15B8AB1900551228 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		EE87DFBF15B81CCF00DD35AE /* arrowUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrowUp.png; sourceTree = "<group>"; };
+		EE87DFC115B81CFD00DD35AE /* arrowDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrowDown.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +62,8 @@
 		EE32B45315B7672B00F729C9 = {
 			isa = PBXGroup;
 			children = (
+				EE86094A15B8AB1900551228 /* icon.png */,
+				EE86094815B8AB1400551228 /* Default.png */,
 				EE32B46815B7672C00F729C9 /* Project 2 */,
 				EE32B46115B7672C00F729C9 /* Frameworks */,
 				EE32B45F15B7672C00F729C9 /* Products */,
@@ -82,6 +96,7 @@
 				EE32B47415B7672C00F729C9 /* MainStoryboard.storyboard */,
 				EE32B47715B7672C00F729C9 /* RandomPickerViewController.h */,
 				EE32B47815B7672C00F729C9 /* RandomPickerViewController.m */,
+				EE87DFC315B81D0400DD35AE /* Pictures */,
 				EE32B46915B7672C00F729C9 /* Supporting Files */,
 			);
 			path = "Project 2";
@@ -96,6 +111,17 @@
 				EE32B47015B7672C00F729C9 /* Project 2-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EE87DFC315B81D0400DD35AE /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				EE86094315B8AB0100551228 /* icon.png */,
+				EE86094415B8AB0100551228 /* background.png */,
+				EE87DFBF15B81CCF00DD35AE /* arrowUp.png */,
+				EE87DFC115B81CFD00DD35AE /* arrowDown.png */,
+			);
+			name = Pictures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +177,12 @@
 			files = (
 				EE32B46D15B7672C00F729C9 /* InfoPlist.strings in Resources */,
 				EE32B47615B7672C00F729C9 /* MainStoryboard.storyboard in Resources */,
+				EE87DFC015B81CCF00DD35AE /* arrowUp.png in Resources */,
+				EE87DFC215B81CFD00DD35AE /* arrowDown.png in Resources */,
+				EE86094515B8AB0100551228 /* icon.png in Resources */,
+				EE86094615B8AB0100551228 /* background.png in Resources */,
+				EE86094915B8AB1400551228 /* Default.png in Resources */,
+				EE86094B15B8AB1900551228 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +307,7 @@
 				EE32B47E15B7672C00F729C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
